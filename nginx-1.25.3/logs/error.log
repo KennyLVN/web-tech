@@ -1,0 +1,74 @@
+2023/12/26 23:55:14 [emerg] 9920#17848: bind() to 0.0.0.0:80 failed (10013: Det blev forsøgt at få adgang til en socket på en måde, der er forbudt af den pågældende sockets adgangstilladelser)
+2023/12/27 00:12:23 [emerg] 9588#13100: unknown directive "in" in C:\Users\Kenny\Desktop\nginx-1.25.3/conf/nginx.conf:39
+2023/12/27 00:15:03 [emerg] 16740#5564: unknown directive "in" in C:\Users\Kenny\Desktop\nginx-1.25.3/conf/nginx.conf:39
+2023/12/27 00:17:42 [emerg] 17860#7300: unknown directive "in" in C:\Users\Kenny\Desktop\nginx-1.25.3/conf/nginx.conf:39
+2023/12/27 00:18:57 [error] 12872#4504: *1 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:22:02 [error] 12872#4504: *3 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:22:03 [error] 12872#4504: *3 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:22:05 [error] 12872#4504: *3 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:22:07 [error] 12872#4504: *3 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:22:43 [error] 12872#4504: *3 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:22:52 [error] 12872#4504: *3 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:22:52 [error] 12872#4504: *3 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:22:53 [error] 12872#4504: *3 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:22:53 [error] 12872#4504: *3 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:34:06 [error] 12872#4504: *5 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:34:07 [error] 12872#4504: *5 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:34:07 [error] 12872#4504: *5 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:34:08 [error] 12872#4504: *5 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:34:08 [error] 12872#4504: *5 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:34:08 [error] 12872#4504: *5 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:34:08 [error] 12872#4504: *5 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:34:08 [error] 12872#4504: *5 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:34:09 [error] 12872#4504: *5 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:36:52 [notice] 3520#16868: signal process started
+2023/12/27 00:36:56 [error] 12872#4504: *7 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:36:57 [error] 12872#4504: *7 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:36:57 [error] 12872#4504: *7 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:36:57 [error] 12872#4504: *7 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:36:57 [error] 12872#4504: *7 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:36:57 [error] 12872#4504: *7 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:36:58 [error] 12872#4504: *7 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:36:58 [error] 12872#4504: *7 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:36:58 [error] 12872#4504: *7 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:36:58 [error] 12872#4504: *7 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 00:56:01 [emerg] 16756#4652: directive "location" has no opening "{" in C:\Users\Kenny\Desktop\nginx-1.25.3/conf/nginx.conf:38
+2023/12/27 00:56:35 [emerg] 19092#18992: directive "location" has no opening "{" in C:\Users\Kenny\Desktop\nginx-1.25.3/conf/nginx.conf:38
+2023/12/27 00:56:54 [emerg] 7712#18512: directive "location" has no opening "{" in C:\Users\Kenny\Desktop\nginx-1.25.3/conf/nginx.conf:38
+2023/12/27 00:57:15 [emerg] 4988#2884: unexpected ";" in C:\Users\Kenny\Desktop\nginx-1.25.3/conf/nginx.conf:42
+2023/12/27 00:57:24 [emerg] 6256#3192: directive "location" has no opening "{" in C:\Users\Kenny\Desktop\nginx-1.25.3/conf/nginx.conf:58
+2023/12/27 00:57:45 [emerg] 12296#18812: directive "location" has no opening "{" in C:\Users\Kenny\Desktop\nginx-1.25.3/conf/nginx.conf:58
+2023/12/27 00:58:06 [emerg] 13872#7996: directive "location" has no opening "{" in C:\Users\Kenny\Desktop\nginx-1.25.3/conf/nginx.conf:58
+2023/12/27 00:58:30 [emerg] 18912#3004: directive "location" has no opening "{" in C:\Users\Kenny\Desktop\nginx-1.25.3/conf/nginx.conf:58
+2023/12/27 00:58:54 [emerg] 16696#12264: directive "location" has no opening "{" in C:\Users\Kenny\Desktop\nginx-1.25.3/conf/nginx.conf:58
+2023/12/27 00:59:19 [emerg] 17252#10268: directive "location" has no opening "{" in C:\Users\Kenny\Desktop\nginx-1.25.3/conf/nginx.conf:58
+2023/12/27 01:12:38 [notice] 1928#4024: signal process started
+2023/12/27 01:12:42 [error] 12872#4504: *9 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2023/12/27 01:14:22 [error] 12872#4504: *11 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/12/27 01:14:25 [error] 12872#4504: *11 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/12/27 01:14:26 [error] 12872#4504: *11 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/12/27 01:16:53 [notice] 5696#17592: signal process started
+2023/12/27 01:16:59 [error] 12872#4504: *14 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/12/27 01:17:01 [error] 12872#4504: *14 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/12/27 01:27:34 [notice] 10372#6928: signal process started
+2023/12/27 01:27:38 [error] 12872#4504: *17 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/12/27 01:28:17 [error] 12872#4504: *17 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/12/27 01:41:28 [notice] 5008#18464: signal process started
+2023/12/27 01:42:56 [error] 6556#16524: *1 connect() failed (10061: Der kunne ikke oprettes forbindelse, fordi destinationscomputeren aktivt nægtede det) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2023/12/27 01:44:32 [notice] 12220#15336: signal process started
+2023/12/27 01:47:29 [error] 2256#8396: *1 connect() failed (10061: Der kunne ikke oprettes forbindelse, fordi destinationscomputeren aktivt nægtede det) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2023/12/27 01:47:33 [error] 2256#8396: *1 connect() failed (10061: Der kunne ikke oprettes forbindelse, fordi destinationscomputeren aktivt nægtede det) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2023/12/27 01:58:46 [notice] 4648#12676: signal process started
+2023/12/27 02:02:51 [notice] 11928#2320: signal process started
+2023/12/27 05:14:02 [error] 13468#9760: *1 connect() failed (10061: Der kunne ikke oprettes forbindelse, fordi destinationscomputeren aktivt nægtede det) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2023/12/27 05:14:05 [error] 13468#9760: *1 connect() failed (10061: Der kunne ikke oprettes forbindelse, fordi destinationscomputeren aktivt nægtede det) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2023/12/27 05:15:28 [notice] 19856#16696: signal process started
+2023/12/27 05:22:00 [notice] 17016#19752: signal process started
+2023/12/27 05:24:10 [warn] 4456#8724: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2023/12/27 05:33:31 [error] 12872#4504: *33 CreateFile() "C:\Users\Kenny\Desktop\nginx-1.25.3/html/index.php" failed (2: Den angivne fil blev ikke fundet), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/12/27 05:34:03 [notice] 20108#10892: signal process started
+2023/12/27 05:40:44 [notice] 2164#10812: signal process started
+2023/12/27 05:44:28 [notice] 13008#8024: signal process started
+2023/12/27 05:45:54 [notice] 264#4364: signal process started
+2023/12/27 05:47:24 [notice] 7388#19752: signal process started
+2023/12/27 10:42:13 [notice] 17708#4536: signal process started
